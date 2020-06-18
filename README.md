@@ -1,3 +1,7 @@
+## x86_64架构下的可执行文件
+[iStyle_windows_x86_64.zip](https://github.com/0qinghao/istyle-verilog-formatter/releases/download/v1.21_x86_64/iStyle_windows_x86_64.zip)
+
+
 ## iStyle 1.21 (Fast and Free Automatic Formatter for Verilog Source Code) ##
 > (Created by haimag, Report Bugs: haimag@gmail.com)
 > (Thanks to Tal Davidson & Astyle)
